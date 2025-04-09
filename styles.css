@@ -1,0 +1,29 @@
+body{
+    color:0E0D0D;
+    background-color: #2F4550;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.carte {
+    border: 4px ridge #586F7C;
+    border-radius: 12px;
+    background-color: #B8DBD9;
+    border-color: #F4F4F9;
+    display: flex;
+    margin: 30px auto;
+    width: 500px;
+    justify-content: center;
+    padding: 10px;
+}
+.avatar{
+    height: 200px;
+    width :150px;
+    margin: 15px;
+}
+
+h1{
+    text-decoration: underline;
+}
+img:hover {
+    width: 45%;
+    height: 45%;
+}
