@@ -6,7 +6,7 @@ body{
 .carte {
     border: 4px ridge #586F7C;
     border-radius: 12px;
-    background-color: linear-gradient(#B8DBD9,#0000e6)
+    background: linear-gradient(#B8DBD9,#0000e6)
     border-color: #F4F4F9;
     display: flex;
     margin: 30px auto;
